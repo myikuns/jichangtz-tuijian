@@ -18,7 +18,7 @@
 | 3  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！**$${\color{red}{直连版无家宽！}}$$** |
 | 4  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=9MGu30g4) | ¥10月付/168GB,有越、美、日、港台澳等家宽节点，是**三年老牌机场!服务超级稳定!** |
 | 5  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
-| 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥9月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
+| 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥7月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 | 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),**联通不推荐**！有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
 
