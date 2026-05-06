@@ -1,4 +1,4 @@
-# 低价机场/VPN 推荐（2026 年 4 月更新）https://myikuns.github.io/vpn/
+# 低价机场/VPN 推荐（2026 年 5 月更新）https://myikuns.github.io/vpn/
 
 此网站跟随此页面更新，之前缓存过的建议**多次刷新确保更新缓存**
 
