@@ -21,6 +21,8 @@
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥7月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 | 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,**联通不推荐**！有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
+| 9  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**含超低倍率0.05倍节点、全线路CN2 GIA + 9929 + CMIN2!** |
+| 10 | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{含有250+条高速线路与部分家宽线路，覆盖全球100+个国家(含卫星网络)}}$$** |
 
 
 # 二、备用推荐
@@ -258,6 +260,45 @@ IEPL企业专线套餐：￥52季付/50G
 
 </details>
 
+<hr>
+
+### 肯の机
+套餐价格：￥35/100GB ￥70/200GB ￥105/300G ￥300/1TB
+
+最新优惠：顶尖机场、顶尖体验、暂无优惠！前期建议先买最便宜测试使用！
+
+特点：
+* 提供🚀GTM均衡优化入口线路负载 带V6入口 GOMAMI DMIT等入口 AKARI等出口
+* 速率高达2Gbps、无限制同时连接 IP 数！ 附带部分家宽节点！
+* 全1倍率节点,赠超低0.02倍率！
+* 解锁全流媒体解锁和全AI解锁！！！
+
+[官网跳转](https://kendeji.io/#/auth?invite=uu15Kzxj)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/肯の机/price.png)
+
+</details>
+
+<hr>
+
+### TAG
+套餐价格：¥114/500G  ¥219/999G  ¥185(季付)/每月250GB
+
+特点(就是家宽多、线路超级丰富)：
+* 提供250+ 条高速线路，覆盖全球 100+ 个国家和地区(含卫星网络)，畅享低延迟体验！超多家宽节点！
+* 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制！
+* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制
+* 注意！最多【10】个设备同时链接使用！不保证【Tiktok】能用、不保证【抖音、快手、微博、B站等大陆应用】修改定位!
+
+[官网跳转](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/TAG/price.png)
+
+</details>
 
 <hr>
 
