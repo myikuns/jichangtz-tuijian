@@ -141,6 +141,12 @@
 ![套餐价格](./image/肯の机/price.png)
 
 </details>
+<details>
+<summary>测速</summary>
+
+![测速](./image/肯の机/speed.jpg)
+
+</details>
 
 <hr>
 
