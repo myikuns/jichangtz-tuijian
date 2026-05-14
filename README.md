@@ -18,10 +18,11 @@
 | 3  | [优·肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**超低倍率0.05倍节点<br>全线路CN2 GIA + 9929 + CMIN2!延迟低！** |
 | 4  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥29.9/1.5TB(长期)<br>¥699/永久,送期限Emby,**含家宽节点** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
-| 6  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！ |
-| 7  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
-| 8  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥7月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
-| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
+| 6  | [雨燕云](#雨燕云) | [官网](https://new4.yuyan.online/#/register?code=Pe2RS8uV) | ¥13.8/158GB,有CN2/9929/CMIN2且六线智能BGP负载均衡！ |
+| 7  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！ |
+| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
+| 9  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥7月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
+| 10 | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 
 
 # 二、备用推荐
@@ -161,6 +162,38 @@
 ![套餐价格](./image/苏菲家宽/price.png)
 ![套餐价格](./image/苏菲家宽/price1.png)
 ![套餐价格](./image/苏菲家宽/price2.png)
+
+</details>
+
+<hr>
+
+### 雨燕云
+套餐价格：¥13.8/158G  ¥29.8/512G 
+
+特点：
+* CN2/9929/CMIN2 六线智能BGP负载均衡
+* 50+ 全球节点可选、节点丰富！
+* 支持访问各类AI网站以及流媒体网站
+* 个人使用不限制设备数量！
+
+[官网跳转](https://new4.yuyan.online/#/register?code=Pe2RS8uV)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/雨燕云/price.png)
+
+</details>
+<details>
+<summary>三网测速</summary>
+
+![测速](./image/雨燕云/yd.jpg)移动
+![测速](./image/雨燕云/lt.jpg)联通
+![测速](./image/雨燕云/dx.jpg)电信
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![解锁](./image/雨燕云/lmt.png)
 
 </details>
 
