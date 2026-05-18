@@ -26,9 +26,10 @@
 | 3  | [雨燕云](#雨燕云) | [官网](https://new4.yuyan.online/#/register?code=Pe2RS8uV) | ¥13.8/158GB,有CN2/9929/CMIN2且六线智能BGP负载均衡！ |
 | 4  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！ |
 | 5  | [XFLTD](#XFLTD) | [官网](https://my.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,拥有优质公网中转！解锁常见流媒体&AI平台！ |
-| 6  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
-| 7  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
-| 8  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
+| 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
+| 7  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ￥16.9一年不限量！但限制设备2台！ |
+| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
+| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 
 
 # 三、备用推荐（低价）
@@ -36,7 +37,6 @@
 | -------- | -------- | -------- | -------- |
 | 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,**联通不推荐**！有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
 | 2 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ￥24年付/128G（平均2元/月） |
-| 2 | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ￥16.9一年不限量！但限制设备2台！<br> |
 | 3 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
 | 4 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 | 5 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ￥1.5月/100G,￥2.99月/500G |
