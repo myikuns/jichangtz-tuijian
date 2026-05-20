@@ -206,14 +206,14 @@
 ![套餐价格](./image/雪山机场/price.png)
 </details>
 <details>
-<summary>流媒体解锁</summary>
-
-![测速](./image/雪山机场/js.jpg)
-</details>
-<details>
-<summary>测速表</summary>
+<summary>测速图</summary>
 
 ![测速](./image/雪山机场/speed.png)
+</details>
+<details>
+<summary>流媒体解锁情况</summary>
+
+![测速](./image/雪山机场/js.jpg)
 </details>
 <hr>
 
