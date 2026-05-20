@@ -17,6 +17,7 @@
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**超低倍率0.05倍节点<br>全线路CN2 GIA + 9929 + CMIN2!延迟低！** |
 | 4  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB **$${\color{red}{线路为国际IPEL+大陆BGP多线接入!线路优质性价比超高！}}$$** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
+| 6  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路：电信 CN2GIA·联通 9929·移动 CMIN2   |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -28,9 +29,8 @@
 | 5  | [XFLTD](#XFLTD) | [官网](https://my.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,拥有优质公网中转！解锁常见流媒体&AI平台！ |
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
 | 7  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台！ |
-| 8  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路：电信 CN2GIA·联通 9929·移动 CMIN2   |
-| 9  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快<br>目前有七折码：爱你如初LXY |
-| 10 | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
+| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快<br>目前有七折码：爱你如初LXY |
+| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 
 
 # 三、备用推荐（低价）
@@ -154,6 +154,28 @@
 ![套餐价格](./image/苏菲家宽/price1.png)
 ![套餐价格](./image/苏菲家宽/price2.png)
 
+</details>
+<hr>
+
+### 上帝世界
+套餐价格：¥15/50GB,¥25/100GB,¥75/300GB (仅支持月付)
+
+特点：
+* 采用顶尖线路：电信 CN2GIA · 联通 9929 · 移动 CMIN2！
+* 不限制客户端数，不限速！随便使用！
+* 解锁Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
+* 🚀 四网超低延迟，畅享极速网络体验！
+
+[上帝世界官网](https://god-world.com/#/register?code=Dp1RYGLE)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/上帝世界/price.png)
+</details>
+<details>
+<summary>测速&解锁</summary>
+
+![测速](./image/上帝世界/speed.png)
 </details>
 <hr>
 
@@ -330,28 +352,6 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![测速](./image/搅局者/ai.png)
 ![测速](./image/搅局者/lmt.png)
-</details>
-<hr>
-
-### 上帝世界
-套餐价格：¥15/50GB,¥25/100GB,¥75/300GB (仅支持月付)
-
-特点：
-* 采用顶尖线路：电信 CN2GIA · 联通 9929 · 移动 CMIN2！
-* 不限制客户端数，不限速！随便使用！
-* 解锁Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
-* 🚀 四网超低延迟，畅享极速网络体验！
-
-[上帝世界官网](https://god-world.com/#/register?code=Dp1RYGLE)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/上帝世界/price.png)
-</details>
-<details>
-<summary>测速&解锁</summary>
-
-![测速](./image/上帝世界/speed.png)
 </details>
 <hr>
 
