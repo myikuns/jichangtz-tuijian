@@ -337,6 +337,7 @@ IEPL企业专线套餐：￥52季付/50G
 * 南极 冰岛等稀缺iP 原生iP 住宅iP
 * 解锁：Netflix, ChatGPT, Gemini 等
 * 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+* 节点三网优化 带宽5Gbps+ 线路80+
 
 [落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
 <details>
