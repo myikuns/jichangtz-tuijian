@@ -346,13 +346,11 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/良心云/price.png)
-![套餐价格](./image/良心云/price1.png)
-
 </details>
 <details>
 <summary>测速</summary>
 
-![测速](./image/良心云/speed.jpg)
+![测速](./image/良心云/speed.png)
 </details>
 <hr>
 
