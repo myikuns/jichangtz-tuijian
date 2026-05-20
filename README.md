@@ -286,6 +286,52 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
+### 落云
+
+套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：60FFF**
+
+特点：[节点列表](https://88888.ee88.tk/#/nodes)
+* 南极 冰岛等稀缺iP 原生iP 住宅iP
+* 解锁：Netflix, ChatGPT, Gemini 等
+* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+* 节点三网优化 带宽5Gbps+ 线路80+
+
+[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/落云/price.png)
+</details>
+<hr>
+
+### 搅局者
+套餐价格：￥10.9年付/每月500GB & ￥16.9一年/不限量 · 但限制设备2台！（奠信慎入）
+
+特点：
+* 提供提供[Basic]和[Premium]系列节点，包括香港，台湾，新加坡，日本，美国等节点
+* 无限流量+无速度限制！支持下载/观影 EMBY爽看！
+* 解锁常见流媒体与AI等
+
+[搅局者官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/搅局者/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+![测速](./image/搅局者/lt.jpg)
+![测速](./image/搅局者/dx.jpg)
+</details>
+<details>
+<summary>流媒体&AI解锁图</summary>
+
+![测速](./image/搅局者/ai.png)
+![测速](./image/搅局者/lmt.png)
+</details>
+<hr>
+
 ### 良心云
 套餐价格：¥2/100GB,￥4/500GB
 
@@ -325,24 +371,6 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![套餐价格](./image/狗子云/price.png)
 ![套餐价格](./image/狗子云/price1.png)
-</details>
-<hr>
-
-### 落云
-
-套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：60FFF**
-
-特点：[节点列表](https://88888.ee88.tk/#/nodes)
-* 南极 冰岛等稀缺iP 原生iP 住宅iP
-* 解锁：Netflix, ChatGPT, Gemini 等
-* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
-* 节点三网优化 带宽5Gbps+ 线路80+
-
-[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/落云/price.png)
 </details>
 <hr>
 
@@ -387,29 +415,6 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>测速</summary>
 
 ![测速](./image/墨菲云/speed.jpg)
-</details>
-<hr>
-
-### 搅局者
-套餐价格：￥10.9年付/每月500GB & ￥16.9一年/不限量 · 但限制设备2台！（奠信慎入）
-
-特点：
-* 提供提供[Basic]和[Premium]系列节点，包括香港，台湾，新加坡，日本，美国，欧洲及小众地区节点
-* 无限流量+无速度限制！
-* 支持下载/观影 EMBY爽看！
-
-[搅局者官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/搅局者/price.png)
-
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/搅局者/lt.jpg)
-![测速](./image/搅局者/dx.jpg)
 </details>
 <hr>
 
