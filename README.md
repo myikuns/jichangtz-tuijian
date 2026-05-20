@@ -13,9 +13,9 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **含有250+条高速线路与超多家宽线路<br>覆盖全球100+个国家(含卫星网络)** |
-| 2  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **老牌顶级线路机场、速度快，但稳定较差，树大招风** |
+| 2  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场、速度快，但稳定较差，树大招风}}$$** |
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**超低倍率0.05倍节点<br>全线路CN2 GIA + 9929 + CMIN2!延迟低！** |
-| 4  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,**线路为国际IPLC+大陆BGP多线接入、线路优质性价比超高！** |
+| 4  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB **$${\color{red}{线路为国际IPLC+大陆BGP多线接入、线路优质性价比超高！}}$$** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
 
 # 二、主力推荐（性价比）
