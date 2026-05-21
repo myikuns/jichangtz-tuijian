@@ -344,8 +344,7 @@ IEPL企业专线套餐：￥52季付/50G
 <details>
 <summary>测速图</summary>
 
-![测速](./image/搅局者/lt.jpg)
-![测速](./image/搅局者/dx.jpg)
+![测速](./image/搅局者/speed.jpg)
 </details>
 <details>
 <summary>流媒体&AI解锁图</summary>
