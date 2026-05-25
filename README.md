@@ -32,7 +32,7 @@
 | 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快 |
 | 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP,**可分销** |
 | 10 | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
-| 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥15/128GB ¥8/52G,IEPL专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费-999999G}}$$** |
+| 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥15/128GB ¥8/52G,IEPL专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 
 # 三、备用推荐（低价）
