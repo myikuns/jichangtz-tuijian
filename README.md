@@ -32,6 +32,7 @@
 | 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快<br>目前有七折码：爱你如初LXY |
 | 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 | 10 | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点 |
+| 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥15/128GB ¥8/52G,IEPL专线节点+跨境电商原生家宽IP |
 
 
 # 三、备用推荐（低价）
@@ -409,6 +410,22 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/星链机场/price.png)
+</details>
+<hr>
+
+### 牢大云
+套餐价格：¥8/52GB ¥15/128GB ¥48/512GB
+
+特点：`注册就有永久免费免费999999G不限速套餐·限制1台设备`
+* ✅ IEPL专线节点+跨境电商原生家宽IP
+* 🔥 流媒体、AI网站、海外工具等全解
+* 🔒 AnyTLS加密，限制设备数根据套餐价位有所不同
+
+[牢大云官网](https://laodayun.com/#/register?code=BlatljSN)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/牢大云/price.png)
 </details>
 <hr>
 
