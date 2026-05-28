@@ -40,11 +40,11 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
-| 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5月/100G,￥2.99月/500G |
-| 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G（平均2元/月） |
+| 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5月/100G,￥2.99月/500G,老牌低价机场稳定性很好! |
+| 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G(平均2元/月) |
 | 4 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
-| 5 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
-| 6 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)<br>仅建议买长期备用,流媒体解锁,不限制设备！ |
+| 5 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 6 | [XFLTD](#XFLTD) | [官网](https://my.xfltd.org/#/register?code=ptlnb86g) | ¥10/120GB(长期),拥有优质公网中转！解锁常见流媒体&AI平台！ |
 
 > **家宽/电商**：**悦通**（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！） **苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -471,6 +471,38 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
+### 赔钱机场
+套餐价格：￥1.5/100G,￥2.99/500G
+
+特点：
+* 不限速
+* 包含0.1倍率低扣费福利下载节点
+* 稳定解锁流媒体奈菲、迪士尼、TikTok、ChatGPT 等
+
+[赔钱机场官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/赔钱机场/price.png)
+</details>
+<hr>
+
+### Kitty Network
+
+套餐价格：￥24年付/128G（平均2元/月）
+
+特点：
+* 不限速，不限在线设备数量
+* 解锁 Netflix，Disney+，ChatGPT等
+
+[Kitty Network官网](https://kitty.sb/#/register?code=UZPduMjD)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/KittyNetwork/price.png)
+</details>
+<hr>
+
 ### 蜜雪冰城
 套餐价格：¥3/100GB ¥21/1TB 另外有永久套餐！
 
@@ -504,54 +536,4 @@ IEPL企业专线套餐：￥52季付/50G
 [果冻加速官网](https://naichachong.com/#/register?code=yO3p6doW)
 
 <hr>
-
-### Kitty Network
-
-套餐价格：￥24年付/128G（平均2元/月）
-
-特点：
-* 不限速，不限在线设备数量
-* 解锁 Netflix，Disney+，ChatGPT等
-
-[Kitty Network官网](https://kitty.sb/#/register?code=UZPduMjD)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/KittyNetwork/price.png)
-</details>
-<hr>
-
-### 赔钱机场
-套餐价格：￥1.5/100G,￥2.99/500G
-
-特点：
-* 不限速
-* 包含0.1倍率低扣费福利下载节点
-* 稳定解锁流媒体奈菲、迪士尼、TikTok、ChatGPT 等
-
-[赔钱机场官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/赔钱机场/price.png)
-</details>
-<hr>
-
-### 亏本机场
-
-套餐价格： ¥2/500G（月付）¥10/1234GB（长期）
-
-特点：
-* 不限在线设备数量、经济实惠、但延迟较高
-* 长期备用性价比超高、不过节点质量一般
-* 解锁流媒体、有0.1x倍率节点
-
-[亏本机场官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/亏本机场/price.png)
-</details>
-<hr>
-
 
