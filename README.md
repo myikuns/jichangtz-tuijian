@@ -98,12 +98,12 @@
 ### efan
 **套餐价格：¥280/每月200GB(半年付) ¥360/每月100GB(年付) ¥240/每月500GB(季付)**
 
-特点：
+特点：两年付8折：`efan24` 三年付7折： `efan36`
 * 三天无理由全额退款保证！不好用随时退款！但大多都是季付起！
 * **$${\color{red}{IEPL企业级内网专线!50+全球落地节点!}}$$**
 * 解锁Netfilx、Disney+等主流流媒体平台的区域限制！
 * 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制！
-* 最高 1000Mbps 速率可用！两年付8折：efan24 三年付7折： efan36
+* 最高 1000Mbps 速率可用！
 
 [官网跳转](https://api.efanapi.com/aff.php?aff=32951)
 <details>
