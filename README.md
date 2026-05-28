@@ -15,10 +15,11 @@
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **有250+高速线路与超多家宽线路!**<br>**覆盖全球100+个国家(含卫星网络)!** |
 | 2  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
-| 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
-| 4  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200G,**$${\color{red}{线路为国际IPEL+大陆BGP多线接入!线路优质性价比超高！}}$$** |
-| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
-| 6  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2 |
+| 3  | [饿饭CC云](#efan) | [官网](https://api.efanapi.com/aff.php?aff=32951) | ¥280/200GB(半年付) **$${\color{red}{IEPL企业级内网专线!50+全球落地节点!}}$$** |
+| 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
+| 5  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200G,**$${\color{red}{线路为国际IPEL+大陆BGP多线接入!线路优质性价比超高！}}$$** |
+| 6  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
+| 7  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2 |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -91,6 +92,24 @@
 <summary>节点列表</summary>
   
 ![节点](./image/奶昔/节点.png)
+</details>
+<hr>
+
+### efan
+**套餐价格：¥280/每月200GB(半年付) ¥360/每月100GB(年付) ¥240/每月500GB(季付)**
+
+特点：
+* 三天无理由全额退款保证！不好用随时退款！但大多都是季付起！
+* **$${\color{red}{IEPL企业级内网专线!50+全球落地节点!}}$$**
+* 解锁Netfilx、Disney+等主流流媒体平台的区域限制！
+* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制！
+* 最高 1000Mbps 速率可用！两年付8折：efan24 三年付7折： efan36
+
+[官网跳转](https://api.efanapi.com/aff.php?aff=32951)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/efan/price.png)
 </details>
 <hr>
 
