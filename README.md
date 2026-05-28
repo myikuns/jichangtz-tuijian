@@ -471,18 +471,21 @@ IEPL企业专线套餐：￥52季付/50G
 <hr>
 
 ### 赔钱机场
-套餐价格：￥1.5/100G,￥2.99/500G
+套餐价格：¥1.5/100G,¥2.99/500G  ¥18.9/1TB长期,¥68.9/4TB长期
 
 特点：
-* 不限速
-* 包含0.1倍率低扣费福利下载节点
-* 稳定解锁流媒体奈菲、迪士尼、TikTok、ChatGPT 等
+* 🔒全线路安全加密，保护隐私安全
+* 🎉包含0.1倍率低扣费福利下载节点
+* 🪽不限制下载速度，流畅访问互联网
+* 🎬稳定解锁流媒体奈菲、迪士尼、TikTok、ChatGPT等
+* 🔥电信联通移动 三网专项优化
 
 [赔钱机场官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw)
 <details>
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/赔钱机场/price.png)
+![套餐价格](./image/赔钱机场/price1.png)
 </details>
 <hr>
 
