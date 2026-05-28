@@ -92,6 +92,11 @@
   
 ![节点](./image/奶昔/节点.png)
 </details>
+<details>
+<summary>单线程测速</summary>
+  
+![节点](./image/奶昔/speed.png)
+</details>
 <hr>
 
 ### efan
