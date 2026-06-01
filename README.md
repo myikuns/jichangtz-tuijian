@@ -1,14 +1,15 @@
-# 低价机场/VPN 推荐（2026 年 5 月更新）https://myikuns.github.io/vpn/
+# 低价机场/VPN 推荐（2026 年 6 月更新）https://myikuns.github.io/vpn/
 
 此网站跟随此页面更新，之前缓存过的建议**多次刷新确保更新缓存**
 
 日常更新不多，但**每一条都是自己长期实测**过的!<br>
 目前属于特殊时期，节点多少都会有波动，**建议多备几个**做备用!<br>
 注目前专线、中转时长波动不稳定，最近频繁拔线且用且珍惜吧！<br>
-海外账号TG&苹果ID等低价号：https://tgsss.com/3A233F64
-
 ## 纯净 IP 补充（电商/AI/高要求场景）
-需要静态住宅 IP 或动态短效 IP → [**《点此查看》**](https://share.cliproxy.com/share/f57m8w8j2)
+需要静态住宅 IP 或动态短效 IP → [**《点此查看》**](https://share.cliproxy.com/share/f57m8w8j2)<br>
+苹果ID&TG/x/ins账号等低价海外账号购买：[**《点此查看》**](https://tgsss.com/3A233F64)
+
+
 
 # 一、顶尖推荐（首选）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
