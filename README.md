@@ -7,7 +7,7 @@
 注目前专线、中转时长波动不稳定，最近频繁拔线且用且珍惜吧！<br>
 ## 纯净 IP 补充（电商/AI/高要求场景）
 需要静态住宅 IP 或动态短效 IP → [**《点此查看》**](https://share.cliproxy.com/share/f57m8w8j2)<br>
-苹果ID&TG/x/ins/gpt账号等低价海外账号购买：[**《点此查看》**](https://tgsss.com/3A233F64)
+苹果ID&TG/x/ins/gpt账号等低价海外账号购买 → [**《点此查看》**](https://tgsss.com/3A233F64)
 
 
 
