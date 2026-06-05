@@ -23,15 +23,15 @@
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ￥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买有💎的套餐·含家宽节点}}$$** |
+| 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买有💎的套餐·含家宽节点}}$$** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
 | 3  | [雨燕云](#雨燕云) | [官网](https://new4.yuyan.online/#/register?code=Pe2RS8uV) | ¥13.8/158GB,有CN2/9929/CMIN2且六线智能BGP负载均衡！ |
 | 4  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP·原生IP·住宅iP}}$$** |
 | 5  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！ |
 | 6  | [XFLTD](#XFLTD) | [官网](https://www.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,¥24/120GB(长期),拥有优质公网中转！性价比较高 |
 | 7  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快 |
-| 8  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销** |
-| 9  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台！ |
+| 8  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台！ |
+| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销** |
 | 10 | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
 | 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
@@ -40,9 +40,10 @@
 | -------- | -------- | -------- | -------- |
 | 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
 | 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5月/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
-| 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G(平均2元/月) |
-| 4 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化,BGP与0.5x低倍率节点! |
-| 5 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 3 | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(不限时)<br>主要为美日新台港,**不限设备数量** |
+| 4 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G(平均2元/月) |
+| 5 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化,BGP与0.5x低倍率节点! |
+| 6 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 
 > **家宽/电商**：**悦通**（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！） **苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -450,6 +451,28 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![套餐价格](./image/赔钱机场/price.png)
 ![套餐价格](./image/赔钱机场/price1.png)
+</details>
+<hr>
+
+### 飞鸟云
+套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
+
+特点：
+* ✅地区: 🇺🇸 美国 🇯🇵 日本 🇸🇬新加坡 🇹🇼 台湾 🇭🇰 香港
+* ✅大多数为Hysteria2协议+少量Vless协议
+* ✅不限网速，不限设备数量！
+* ✅建议当作备用的不二之选！
+
+[飞鸟云官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/飞鸟云/price.png)
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./image/飞鸟云/speed.png)
 </details>
 <hr>
 
