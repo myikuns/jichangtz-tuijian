@@ -15,10 +15,11 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **有250+高速线路与超多家宽线路!**<br>**覆盖全球100+个国家(含卫星网络)!** |
-| 2  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
-| 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
-| 4  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
-| 5  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2 |
+| 2  | [VikingLinks](#vklinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥72/500GB **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
+| 3  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
+| 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
+| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
+| 6  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2<br>注:节点地区较少 |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -68,7 +69,23 @@
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/TAG/price.png)
+</details>
+<hr>
 
+### VikingLinks
+**套餐价格：¥72/500GB , ¥118(季付)/每月250GB**
+
+**特点(延迟低、稳定性高)：**
+* ⚡️国外透传连接⚡️
+* 🚩世界多国内网互联🚩
+* 📺主流流媒体Netflix,Disney+等流媒体解锁📺
+* 📱另外赠送emby追更服📱
+
+[官网跳转](https://feeds.viking-links.tech/#/register?code=il5kLeXJ)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/Vlink/price.png)
 </details>
 <hr>
 
