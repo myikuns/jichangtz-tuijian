@@ -135,7 +135,7 @@
 ![套餐价格](./image/肯の机/price.png)
 </details>
 <details>
-<summary>测速</summary>
+<summary>测速图</summary>
 
 ![测速](./image/肯の机/speed.jpg)
 </details>
@@ -393,7 +393,7 @@ IEPL企业专线套餐：￥52季付/50G
 ![套餐价格](./image/飞鸟云/price.png)
 </details>
 <details>
-<summary>测速</summary>
+<summary>测速图</summary>
 
 ![测速](./image/飞鸟云/speed.png)
 </details>
@@ -467,7 +467,7 @@ IEPL企业专线套餐：￥52季付/50G
 ![套餐价格](./image/墨菲云/price.png)
 </details>
 <details>
-<summary>测速</summary>
+<summary>测速图</summary>
 
 ![测速](./image/墨菲云/speed.jpg)
 </details>
@@ -543,7 +543,7 @@ IEPL企业专线套餐：￥52季付/50G
 ![套餐价格](./image/蜜雪冰城/price.png)
 </details>
 <details>
-<summary>测速</summary>
+<summary>测速图</summary>
 
 ![测速](./image/蜜雪冰城/speed.jpg)
 </details>
