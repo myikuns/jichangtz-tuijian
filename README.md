@@ -489,6 +489,11 @@ IEPL企业专线套餐：￥52季付/50G
 ![套餐价格](./image/赔钱机场/price.png)
 ![套餐价格](./image/赔钱机场/price1.png)
 </details>
+<details>
+<summary>测速图</summary>
+
+![套餐价格](./image/赔钱机场/speed.png)
+</details>
 <hr>
 
 ### 一分机场
