@@ -439,7 +439,12 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/狗子云/price.png)
-![套餐价格](./image/狗子云/price1.png)
+</details>
+<details>
+<summary>测速&解锁</summary>
+
+![套餐价格](./image/狗子云/speed.png)
+![套餐价格](./image/狗子云/lmt.png)
 </details>
 <hr>
 
