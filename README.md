@@ -38,12 +38,11 @@
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G(平均2元/月) |
-| 2 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
+| 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
+| 2 | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销** |
 | 3 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5月/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
 | 4 | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2月/100G,¥6/1TB,¥11.88/100G(长期) |
-| 5 | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销** |
-| 6 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化,BGP与0.5x低倍率节点! |
+| 5 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化,BGP与0.5x低倍率节点! |
 | 6 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 
 > **家宽/电商**：**悦通**（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！） **苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
@@ -243,35 +242,6 @@
 </details>
 <hr>
 
-### 雨燕云
-套餐价格：¥13.8/158G  ¥29.8/512G 
-
-特点：
-* CN2/9929/CMIN2 六线智能BGP负载均衡
-* 50+ 全球节点可选、节点丰富！
-* 支持访问各类AI网站以及流媒体网站
-* 个人使用不限制设备数量！
-
-[官网跳转](https://new4.yuyan.online/#/register?code=Pe2RS8uV)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/雨燕云/price.png)
-</details>
-<details>
-<summary>三网测速</summary>
-
-![测速](./image/雨燕云/yd.jpg)移动
-![测速](./image/雨燕云/lt.jpg)联通
-![测速](./image/雨燕云/dx.jpg)电信
-</details>
-<details>
-<summary>流媒体解锁</summary>
-
-![解锁](./image/雨燕云/lmt.png)
-</details>
-<hr>
-
 ### 落云
 
 套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：60FFF**
@@ -401,7 +371,6 @@ IEPL企业专线套餐：￥52季付/50G
 ### 星链机场
 套餐价格：¥12/188GB ¥35/688G,三网优化IPLC专线，50+地区节点
 
-
 特点：`注册就有永久免费888PB/永久 不限速套餐`
 * ⚡️ 三网优化IPLC专线，高速且极低延迟
 * 🔒 全线路安全加密，无需担心隐私泄露
@@ -433,22 +402,6 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### Kitty Network
-
-套餐价格：￥24年付/128G（平均2元/月）
-
-特点：
-* 不限速，不限在线设备数量
-* 解锁 Netflix，Disney+，ChatGPT等
-
-[Kitty Network官网](https://kitty.sb/#/register?code=UZPduMjD)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/KittyNetwork/price.png)
-</details>
-<hr>
-
 ### 墨菲云
 套餐价格：¥3.2/222GB(直连+家宽)¥6.6/1111G(直连+家宽) ¥21长期/222GB(直连+家宽)
 
@@ -471,6 +424,25 @@ IEPL企业专线套餐：￥52季付/50G
 ![测速](./image/墨菲云/speed.jpg)
 </details>
 <hr>
+
+### 狗子云
+套餐价格：¥3/168GB ¥5/168(分销版)
+
+特点：
+* 提供原生IP，动态住宅IP支持[奠信晚高峰一般，移动联通均可]
+* 内带分销套餐，可以自行销售！
+* 内含0.1x 倍率节点、套餐速率分套餐等级
+* 解锁 OpenAI / Netflix / TikTok / YouTube 等热门服务 
+
+[狗子云官网](https://gz-cloud.top/#/register?code=kDV2n3tI)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/狗子云/price.png)
+![套餐价格](./image/狗子云/price1.png)
+</details>
+<hr>
+
 
 ### 赔钱机场
 套餐价格：¥1.5/100G,¥2.99/500G  ¥18.9/1TB长期,¥68.9/4TB长期
@@ -514,23 +486,6 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 狗子云
-套餐价格：¥3/168GB ¥5/168(分销版)
-
-特点：
-* 提供原生IP，动态住宅IP支持[奠信晚高峰一般，移动联通均可]
-* 内带分销套餐，可以自行销售！
-* 内含0.1x 倍率节点、套餐速率分套餐等级
-* 解锁 OpenAI / Netflix / TikTok / YouTube 等热门服务 
-
-[狗子云官网](https://gz-cloud.top/#/register?code=kDV2n3tI)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/狗子云/price.png)
-![套餐价格](./image/狗子云/price1.png)
-</details>
-<hr>
 
 ### 蜜雪冰城
 套餐价格：¥3/100GB ¥21/1TB 另外有永久套餐！
@@ -570,6 +525,34 @@ IEPL企业专线套餐：￥52季付/50G
 
 
 
+### 雨燕云
+套餐价格：¥13.8/158G  ¥29.8/512G 
+
+特点：
+* CN2/9929/CMIN2 六线智能BGP负载均衡
+* 50+ 全球节点可选、节点丰富！
+* 支持访问各类AI网站以及流媒体网站
+* 个人使用不限制设备数量！
+
+[官网跳转](https://new4.yuyan.online/#/register?code=Pe2RS8uV)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/雨燕云/price.png)
+</details>
+<details>
+<summary>三网测速</summary>
+
+![测速](./image/雨燕云/yd.jpg)移动
+![测速](./image/雨燕云/lt.jpg)联通
+![测速](./image/雨燕云/dx.jpg)电信
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![解锁](./image/雨燕云/lmt.png)
+</details>
+<hr>
 
 ### 西数
 **套餐价格：¥20/200GB ¥40/400GB ¥60/600GB**
