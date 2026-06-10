@@ -18,7 +18,7 @@
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥72/500GB **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
 | 3  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
-| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** |
+| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** 
 | 6  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2<br>注:节点地区较少！ |
 
 # 二、主力推荐（性价比）
@@ -500,14 +500,14 @@ IEPL企业专线套餐：￥52季付/50G
 <hr>
 
 ### XSWL
-套餐价格：¥2/500G,¥9.9/1.95TB【】
+套餐价格：¥2/500G,¥9.9/1.95TB
 
 特点：
 * ⚡️移动线路最快！优先推荐移动上车！
 * 🎬稳定解锁流媒体Netflix，Disney+，ChatGPTT等
 * 🚀套餐节点不限速，限制3台在线设备数量！防止滥用！
 
-[XSWL官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a)
+[XSWL官网](https://xswl-cloud.com/#/register?code=TnsF16ZW)
 <details>
 <summary>套餐价格</summary>
 
