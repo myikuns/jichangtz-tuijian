@@ -500,7 +500,7 @@ IEPL企业专线套餐：￥52季付/50G
 <hr>
 
 ### XSWL
-套餐价格：¥2/500G,¥9.9/1.95TB
+套餐价格：¥2/500G,¥9.9/1.95TB【】
 
 特点：
 * ⚡️移动线路最快！优先推荐移动上车！
@@ -512,6 +512,11 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/XSWL/price.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![套餐价格](./image/XSWL/tp.png)
 </details>
 <hr>
 
