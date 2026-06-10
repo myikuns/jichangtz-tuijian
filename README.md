@@ -31,20 +31,19 @@
 | 6  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
 | 7  | [XFLTD](#XFLTD) | [官网](https://www.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,¥24/120GB(长期),拥有优质公网中转！性价比较高 |
 | 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
-| 9  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台! |
+| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
 | 10 | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
 | 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
-| 2 | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销** |
-| 3 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
-| 4 | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
-| 5 | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
-| 6 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化,BGP与0.5x低倍率节点! |
-| 7 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
+| 2  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台! |
+| 3  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
+| 4  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
+| 5  | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
+| 6  | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 
 > **家宽/电商**：**苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -266,6 +265,28 @@
 </details>
 <hr>
 
+### 飞鸟云
+套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
+
+特点：
+* ✅地区: 🇺🇸 美国 🇯🇵 日本 🇸🇬新加坡 🇹🇼 台湾 🇭🇰 香港
+* ✅大多数为Hysteria2协议+少量Vless协议
+* ✅不限网速，不限设备数量！
+* ✅建议当作备用的不二之选！
+
+[飞鸟云官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/飞鸟云/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+![测速](./image/飞鸟云/speed.png)
+</details>
+<hr>
+
 ### XSUS
 
 套餐价格：¥12/168GB 
@@ -325,52 +346,26 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 搅局者
-套餐价格：￥10.9年付/每月500GB & ￥16.9一年/不限量 · 但限制设备2台！
+### 狗子云
+套餐价格：¥3/168GB ¥5/168(分销版)
 
 特点：
-* 提供提供[Basic]和[Premium]系列节点，包括香港，台湾，新加坡，日本，美国等节点
-* 无限流量+无速度限制！支持下载/观影 EMBY爽看！
-* 解锁常见流媒体与AI等
+* 提供原生IP，动态住宅IP支持[奠信晚高峰一般，移动联通均可]
+* 内带分销套餐，可以自行销售！
+* 内含0.1x 倍率节点、套餐速率分套餐等级
+* 解锁 OpenAI / Netflix / TikTok / YouTube 等热门服务 
 
-[搅局者官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc)
+[狗子云官网](https://gz-cloud.top/#/register?code=kDV2n3tI)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/搅局者/price.png)
+![套餐价格](./image/狗子云/price.png)
 </details>
 <details>
-<summary>测速图</summary>
+<summary>测速&解锁</summary>
 
-![测速](./image/搅局者/speed.jpg)
-</details>
-<details>
-<summary>流媒体&AI解锁图</summary>
-
-![测速](./image/搅局者/ai.png)
-![测速](./image/搅局者/lmt.png)
-</details>
-<hr>
-
-### 飞鸟云
-套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
-
-特点：
-* ✅地区: 🇺🇸 美国 🇯🇵 日本 🇸🇬新加坡 🇹🇼 台湾 🇭🇰 香港
-* ✅大多数为Hysteria2协议+少量Vless协议
-* ✅不限网速，不限设备数量！
-* ✅建议当作备用的不二之选！
-
-[飞鸟云官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/飞鸟云/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/飞鸟云/speed.png)
+![套餐价格](./image/狗子云/speed.png)
+![套餐价格](./image/狗子云/lmt.png)
 </details>
 <hr>
 
@@ -431,26 +426,30 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 狗子云
-套餐价格：¥3/168GB ¥5/168(分销版)
+### 搅局者
+套餐价格：￥10.9年付/每月500GB & ￥16.9一年/不限量 · 但限制设备2台！
 
 特点：
-* 提供原生IP，动态住宅IP支持[奠信晚高峰一般，移动联通均可]
-* 内带分销套餐，可以自行销售！
-* 内含0.1x 倍率节点、套餐速率分套餐等级
-* 解锁 OpenAI / Netflix / TikTok / YouTube 等热门服务 
+* 提供提供[Basic]和[Premium]系列节点，包括香港，台湾，新加坡，日本，美国等节点
+* 无限流量+无速度限制！支持下载/观影 EMBY爽看！
+* 解锁常见流媒体与AI等
 
-[狗子云官网](https://gz-cloud.top/#/register?code=kDV2n3tI)
+[搅局者官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/狗子云/price.png)
+![套餐价格](./image/搅局者/price.png)
 </details>
 <details>
-<summary>测速&解锁</summary>
+<summary>测速图</summary>
 
-![套餐价格](./image/狗子云/speed.png)
-![套餐价格](./image/狗子云/lmt.png)
+![测速](./image/搅局者/speed.jpg)
+</details>
+<details>
+<summary>流媒体&AI解锁图</summary>
+
+![测速](./image/搅局者/ai.png)
+![测速](./image/搅局者/lmt.png)
 </details>
 <hr>
 
@@ -514,26 +513,6 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 蜜雪冰城
-套餐价格：¥3/100GB ¥21/1TB 另外有永久套餐！
-
-特点：
-* 有电信专属优化,BGP与0.5x低倍率节点！
-* Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
-* 有永久套餐，速度快！不过节点主要为港日美！
-
-[蜜雪冰城官网](https://kad520.uk/#/register?code=5UplgCKR)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/蜜雪冰城/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/蜜雪冰城/speed.jpg)
-</details>
-<hr>
 
 ### 果冻加速
 
