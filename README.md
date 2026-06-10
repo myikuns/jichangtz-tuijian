@@ -295,7 +295,7 @@ IEPL企业专线套餐：￥52季付/50G
 * 三网延迟优化，节点丰富，体验很好！
 * 拥有优质公网中转线路，延迟优化良好！
 
-[XFLTD官网](https://www.xfltd.org/#/register?code=ptlnb86g)
+[XFLTD官网(国内IP访问)](https://www.xfltd.org/#/register?code=ptlnb86g)
 <details>
 <summary>套餐价格</summary>
 
