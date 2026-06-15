@@ -89,7 +89,7 @@
 <summary>测速&解锁</summary>
 
 ![电信测速](./image/Vlink/dx.png)
-![联通测速](./image/Vlink/dx.png)
+![联通测速](./image/Vlink/lt.png)
 ![流媒体](./image/Vlink/lmt.png)
 </details>
 <hr>
