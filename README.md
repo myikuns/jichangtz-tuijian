@@ -38,7 +38,7 @@
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
+| 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95%折扣码：`MFXY95%yyds` |
 | 2  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
 | 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
 | 4  | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
