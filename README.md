@@ -20,7 +20,6 @@
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** 
 | 6  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入<br>另有国际 IPLC 传输线路！ |
-| 7  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2<br>注:节点地区较少！ |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -85,6 +84,13 @@
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/Vlink/price.png)
+</details>
+<details>
+<summary>测速&解锁</summary>
+
+![电信测速](./image/Vlink/dx.png)
+![联通测速](./image/Vlink/dx.png)
+![流媒体](./image/Vlink/lmt.png)
 </details>
 <hr>
 
@@ -180,29 +186,6 @@
 <summary>测速图</summary>
 
 ![测速](./image/西部数据/speed.png)
-</details>
-<hr>
-
-
-### 上帝世界
-套餐价格：¥15/50GB,¥25/100GB,¥75/300GB (仅支持月付)
-
-特点：
-* 🎖️采用顶尖线路：电信 CN2GIA · 联通 9929 · 移动 CMIN2！
-* 🎯不限制客户端数，不限速！随便使用！
-* 🧩解锁Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
-* 🚀 四网超低延迟，畅享极速网络体验！
-
-[上帝世界官网](https://god-world.com/#/register?code=Dp1RYGLE)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/上帝世界/price.png)
-</details>
-<details>
-<summary>测速&解锁</summary>
-
-![测速](./image/上帝世界/speed.png)
 </details>
 <hr>
 
