@@ -29,11 +29,10 @@
 | 3  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
 | 4  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(不限时)<br>主要为美日新台港,**不限设备数量** |
 | 5  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
-| 6  | [XFLTD](#XFLTD) | [官网](https://www.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,¥24/120GB(长期),拥有优质公网中转！性价比较高 |
-| 7  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
-| 8  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
-| 9  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
-| 10 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
+| 6  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
+| 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
+| 8  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
+| 9  | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -314,24 +313,6 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/XSUS/price.png)
-</details>
-<hr>
-
-### XFLTD
-
-套餐价格：¥7/150GB ¥14/300GB ¥24/120G(长期)
-
-特点：
-* 有🇭🇰 香港、🇯🇵 日本、🇹🇼 台湾、🇸🇬 新加坡、🇺🇸 美国等节点，同时也是六年老牌机场！
-* 服务稳定、超低延迟、性比价较高！协议目前为AnyTLS为主！
-* 三网延迟优化，节点丰富，体验很好！
-* 拥有优质公网中转线路，延迟优化良好！
-
-[XFLTD官网(国内IP访问)](https://www.xfltd.org/#/register?code=ptlnb86g)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/XFLTD/price.png)
 </details>
 <hr>
 
