@@ -40,8 +40,7 @@
 | 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95%折扣码：`MFXY95%yyds` |
 | 2  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
 | 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
-| 4  | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
-| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 4  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 
 > **家宽/电商**：**苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -462,27 +461,6 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/一分机场/price.png)
-</details>
-<hr>
-
-### XSWL
-套餐价格：¥2/500G,¥9.9/1.95TB
-
-特点：
-* ⚡️移动线路最快！优先推荐移动上车！
-* 🎬稳定解锁流媒体Netflix，Disney+，ChatGPTT等
-* 🚀套餐节点不限速，限制3台在线设备数量！防止滥用！
-
-[XSWL官网](https://xswl-cloud.com/#/register?code=TnsF16ZW)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/XSWL/price.png)
-</details>
-<details>
-<summary>拓扑图</summary>
-
-![套餐价格](./image/XSWL/tp.png)
 </details>
 <hr>
 
