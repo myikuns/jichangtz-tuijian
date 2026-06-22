@@ -91,35 +91,6 @@
 </details>
 <hr>
 
-### 奶昔
-**套餐价格：¥74.55/200GB ¥123.33/500GB  ^  ¥170.1/500G(中美金融专线)**
-
-特点：
-* 主流节点都有、节点质量高，速度快！
-* 解锁Netfilx、Disney+等主流流媒体平台的区域限制！
-* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制！
-* 注意！最多【2】个设备同时链接使用！可以加购日本、美国、韩国 Anycast网络·中美金融专线！
-
-[官网跳转](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/奶昔/price.png)
-</details>
-<details>
-<summary>节点列表</summary>
-  
-![节点](./image/奶昔/节点.png)
-</details>
-<details>
-<summary>单线程测速</summary>
-  
-![节点](./image/奶昔/speed.png)
-![节点](./image/奶昔/dx.png)
-</details>
-
-<hr>
-
 ### 肯の机
 **套餐价格：￥40/100GB ￥80/200GB ￥10/250G ￥350/1TB**
 
