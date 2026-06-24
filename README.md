@@ -38,7 +38,9 @@
 | 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95%折扣码：`MFXY95%yyds` |
 | 2  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
 | 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
-| 4  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 4  | [乌拉VPN](#乌拉VPN) | [官网](https://wulass.org/#/register?code=47dE5TNY) | ¥1/100G,¥5/1TB<br>高带宽节点接入!不限设备数量! |
+| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+
 
 > **家宽/电商**：**苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -452,6 +454,28 @@ IEPL企业专线套餐：￥52季付/50G
 [果冻加速官网](https://guodongjiasu.com/#/register?code=yO3p6doW)
 <hr>
 
+### 乌拉VPN
+
+套餐价格：¥1/100G，¥5/1TB，¥20/5TB（只有月付·没有不限时套餐）
+
+特点：
+* 🚀 部署于全球骨干网络，专线低延迟稳定连接
+* ⚡ 高带宽节点接入，高清视频流畅观看
+* 🤖 支持访问主流 AI 平台与流媒体平台
+* 💻 个人使用不限设备数量！！！
+
+[乌拉VPN官网](https://wulass.org/#/register?code=47dE5TNY)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/乌拉VPN/price.png)
+</details>
+<details>
+<summary>节点情况</summary>
+
+![套餐价格](./image/乌拉VPN/speed.png)
+</details>
+<hr>
 
 ## 💬 后续不定时上新实测情况！有需要可以点个Star有更新第一时间推送！
 <hr>
