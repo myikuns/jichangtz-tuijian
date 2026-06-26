@@ -441,6 +441,11 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![套餐价格](./image/一分机场/price.png)
 </details>
+<details>
+<summary>测速图</summary>
+
+![套餐价格](./image/一分机场/speed.png)
+</details>
 <hr>
 
 ### 乌拉VPN
