@@ -31,8 +31,7 @@
 | 5  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
 | 6  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
-| 8  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
-| 9  | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
+| 8  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -41,8 +40,8 @@
 | 2  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
 | 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
 | 4  | [乌拉VPN](#乌拉VPN) | [官网](https://wulass.org/#/register?code=47dE5TNY) | ¥1/100G,¥5/1TB<br>高带宽节点接入!不限设备数量! |
-| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
-
+| 5  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
+| 6  | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 > **家宽/电商**：**苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -338,38 +337,16 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 星链机场
-套餐价格：¥12/188GB ¥35/688G,三网优化IPLC专线，50+地区节点
+### 果冻加速
 
-特点：`注册就有永久免费888PB/永久 不限速套餐`
-* ⚡️ 三网优化IPLC专线，高速且极低延迟
-* 🔒 全线路安全加密，无需担心隐私泄露
-* 🌈 流媒体、AI网站、海外工具等全解锁
-* 💻 不限设备数，不限制速度！
-* 🌍 全球超100个节点，50+国家可供选择
+套餐价格：¥9.9/不限量（月付）
 
-[星链机场官网](https://xship.top/?TyW6eXj)
-<details>
-<summary>套餐价格</summary>
+特点：
+* 速度快、无审计、不限量！
+* 适合流媒体！PT下载！节点较少为日、美、港
+* 解锁 Netflix，Disney+，ChatGPT等
 
-![套餐价格](./image/星链机场/price.png)
-</details>
-<hr>
-
-### 牢大云
-套餐价格：¥8/52GB ¥15/128GB ¥48/512GB
-
-特点：`注册就有永久免费免费999999G不限速套餐·限制1台设备`
-* ✅ IEPL专线节点+跨境电商原生家宽IP
-* 🔥 流媒体、AI网站、海外工具等全解
-* 🔒 AnyTLS加密，限制设备数根据套餐价位有所不同
-
-[牢大云官网](https://laodayun.com/#/register?code=BlatljSN)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/牢大云/price.png)
-</details>
+[果冻加速官网](https://guodongjiasu.com/#/register?code=yO3p6doW)
 <hr>
 
 ### 墨菲云
@@ -481,17 +458,40 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-### 果冻加速
+### 星链机场
+套餐价格：¥12/188GB ¥35/688G,三网优化IPLC专线，50+地区节点
 
-套餐价格：¥9.9/不限量（月付）
+特点：`注册就有永久免费888PB/永久 不限速套餐`
+* ⚡️ 三网优化IPLC专线，高速且极低延迟
+* 🔒 全线路安全加密，无需担心隐私泄露
+* 🌈 流媒体、AI网站、海外工具等全解锁
+* 💻 不限设备数，不限制速度！
+* 🌍 全球超100个节点，50+国家可供选择
 
-特点：
-* 速度快、无审计、不限量！
-* 适合流媒体！PT下载！节点较少为日、美、港
-* 解锁 Netflix，Disney+，ChatGPT等
+[星链机场官网](https://xship.top/?TyW6eXj)
+<details>
+<summary>套餐价格</summary>
 
-[果冻加速官网](https://guodongjiasu.com/#/register?code=yO3p6doW)
+![套餐价格](./image/星链机场/price.png)
+</details>
 <hr>
+
+### 牢大云
+套餐价格：¥8/52GB ¥15/128GB ¥48/512GB
+
+特点：`注册就有永久免费免费999999G不限速套餐·限制1台设备`
+* ✅ IEPL专线节点+跨境电商原生家宽IP
+* 🔥 流媒体、AI网站、海外工具等全解
+* 🔒 AnyTLS加密，限制设备数根据套餐价位有所不同
+
+[牢大云官网](https://laodayun.com/#/register?code=BlatljSN)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/牢大云/price.png)
+</details>
+<hr>
+
 
 ## 📌 免责声明
 本仓库内容根据个人及社区实际使用体验整理，均为自费购买测试使用评测，只分享个人的使用体验。本项目的信息不具备永久时效性，有更新不及时的时候，请以官网最新的为准。所有的服务都是第三方运营，我也是一个消费者, 使用过程中产生的任何问题或风险，本项目概不承担。
