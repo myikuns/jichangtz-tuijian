@@ -73,7 +73,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 ### VikingLinks
 **套餐价格：¥72/500GB , ¥118(季付)/每月250GB**
 
-
 **特点(延迟低、稳定性高)：**
 * ⚡️国外透传连接⚡️
 * ❤️‍🔥 优惠码`WELCOME`或`vikingiptv`
@@ -116,7 +115,18 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <details>
 <summary>测速图</summary>
 
-![测速](./image/肯の机/speed.jpg)
+![测速](./image/肯の机/dx.png)
+![测速](./image/肯の机/lt.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![拓扑](./image/肯の机/tp.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/肯の机/lmt.png)
 </details>
 <hr>
 
