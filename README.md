@@ -33,7 +33,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 5  | [小牛智连](#小牛智连) | [官网](https://www.xnssr.com/auth#/register?code=WDyXISuH) | ¥18/100G,三线BGP优化线路，延迟低速度快！ |
 | 8  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
 | 9  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
-| 10 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -344,22 +343,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>节点列表</summary>
 
 ![节点列表](./image/星链机场/speed.png)
-</details>
-<hr>
-
-### 牢大云
-套餐价格：¥8/52GB ¥15/128GB ¥48/512GB
-
-特点：`注册就有永久免费免费999999G不限速套餐·限制1台设备`
-* ✅ IEPL专线节点+跨境电商原生家宽IP
-* 🔥 流媒体、AI网站、海外工具等全解
-* 🔒 AnyTLS加密，限制设备数根据套餐价位有所不同
-
-[牢大云官网](https://laodayun.com/#/register?code=BlatljSN)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/牢大云/price.png)
 </details>
 <hr>
 
