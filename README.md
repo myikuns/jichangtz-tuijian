@@ -184,7 +184,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 ![套餐价格](./image/Lynvx/price.png)
 </details>
 <details>
-<summary>测速图</summary>
+<summary>三网测速图</summary>
 
 ###  电信晚高峰
 ![电信晚高峰](./image/Lynvx/dx.png)
