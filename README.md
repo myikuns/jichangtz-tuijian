@@ -21,7 +21,8 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥72/500GB **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 4  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！  |
-| 5  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入<br>另有国际 IPLC 传输线路！  |
+| 5  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入,另有国际 IPLC 传输线路！ |
+| 6  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥28/200G,¥48/386GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -165,6 +166,42 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>测速图</summary>
 
 ![测速](./image/西部数据/speed.png)
+</details>
+<hr>
+
+### Lynvx
+**套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
+
+特点：`注册就送1G体验节点`
+* 🔥 全面接入：电信CN2GIA、联通9929、移动CMIN2线路
+* 🧩 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
+* 🚀 三网顶尖线路优化！畅享极速网络体验且无设备连接数限制!
+
+[Lynvx官网](https://wd-gold.net/aff.php?aff=14681)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/Lynvx/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+###  电信晚高峰
+![电信晚高峰](./image/Lynvx/dx.png)
+###  联通
+![联通](./image/Lynvx/lt.png)
+###  移动
+![移动](./image/Lynvx/yd.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/Lynvx/lmt.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![拓扑图](./image/Lynvx/tp.png)
 </details>
 <hr>
 
