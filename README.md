@@ -501,7 +501,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <details>
 <summary>三网测速</summary>
   
-### 奠信
+### 电信
 ![测速](./image/乌拉VPN/dx.png)
 ### 联通
 ![测速](./image/乌拉VPN/lt.png)
