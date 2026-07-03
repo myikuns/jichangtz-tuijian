@@ -177,7 +177,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 * 🧩 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
 * 🚀 三网顶尖线路优化！畅享极速网络体验且无设备连接数限制!
 
-[Lynvx官网](https://wd-gold.net/aff.php?aff=14681)
+[Lynvx官网](https://dash.lynvx.info/#/register?code=dGBbCBmF)
 <details>
 <summary>套餐价格</summary>
 
