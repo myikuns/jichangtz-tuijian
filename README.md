@@ -22,18 +22,19 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 4  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！  |
 | 5  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入,另有国际 IPLC 传输线路！ |
-| 6  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥28/200G,¥48/386GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
+| 6  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快！ |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买💎套餐·含家宽专属节点}}$$** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 3  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 4  | [小牛智连](#小牛智连) | [官网](https://www.xnssr.com/auth#/register?code=WDyXISuH) | ¥18/100G,三线BGP优化线路，延迟低速度快！ |
-| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
-| 6  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
-| 7  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+| 3  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥8/50G,¥16/100GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
+| 4  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 5  | [小牛智连](#小牛智连) | [官网](https://www.xnssr.com/auth#/register?code=WDyXISuH) | ¥18/100G,三线BGP优化线路，延迟低速度快！ |
+| 6  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
+| 7  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
+| 8  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -169,41 +170,40 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### Lynvx
-**套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
+### 边界云
+**套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
 
-特点：`注册就送1G体验节点` | 优惠码:`20OFF`
-* 🔥 全面接入：电信CN2GIA、联通9929、移动CMIN2线路
-* 🧩 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
-* 🚀 三网顶尖线路优化！畅享极速网络体验且无设备连接数限制!
+特点：
+* 🔥 全面接入：电信CN2GIA、联通9929、移动CMIN2三网精品线路！
+* 👌 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
+* 🚀 尊享套餐拥有更好的IPEL企业级线路、降低延迟、优化速度！
+* 💳 支持额外的企业专属定制！且所有套餐享有九折优惠码:`lvpn90`
+* ❤️ 所有套餐均支持 ·3天無理由全額退款保證·不好用随时退款！（除定制和按量外）
 
-[Lynvx官网](https://dash.lynvx.info/#/register?code=dGBbCBmF)
+[边界云官网](https://www.lvpn.cc/r/LQB7NF)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/Lynvx/price.png)
+![套餐价格](./image/边界云/price.png)
 </details>
 <details>
 <summary>拓扑图</summary>
 
-![拓扑图](./image/Lynvx/tp.png)
+![拓扑图](./image/边界云/tp.png)
 </details>
 <details>
-<summary>三网测速图</summary>
+<summary>晚高峰测速图</summary>
 
-###  电信晚高峰
-![电信晚高峰](./image/Lynvx/dx.png)
-###  联通
-![联通](./image/Lynvx/lt.png)
-###  移动
-![移动](./image/Lynvx/yd.png)
+![电信晚高峰](./image/边界云/dx.png)
+![移动晚高峰](./image/边界云/yd.png)
 </details>
 <details>
 <summary>流媒体解锁</summary>
 
-![流媒体](./image/Lynvx/lmt.png)
+![流媒体](./image/边界云/lmt.png)
 </details>
 <hr>
+
 
 ### 悦通
 [悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
@@ -270,6 +270,42 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>流媒体解锁情况</summary>
 
 ![测速](./image/雪山机场/js.jpg)
+</details>
+<hr>
+
+### Lynvx
+**套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
+
+特点：`注册就送1G体验节点` | 优惠码:`20OFF`
+* 🔥 全面接入：电信CN2GIA、联通9929、移动CMIN2线路
+* 🧩 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
+* 🚀 三网顶尖线路优化！畅享极速网络体验且无设备连接数限制!
+
+[Lynvx官网](https://dash.lynvx.info/#/register?code=dGBbCBmF)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/Lynvx/price.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![拓扑图](./image/Lynvx/tp.png)
+</details>
+<details>
+<summary>三网测速图</summary>
+
+###  电信晚高峰
+![电信晚高峰](./image/Lynvx/dx.png)
+###  联通
+![联通](./image/Lynvx/lt.png)
+###  移动
+![移动](./image/Lynvx/yd.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/Lynvx/lmt.png)
 </details>
 <hr>
 
