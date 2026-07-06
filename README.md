@@ -425,11 +425,27 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 ![套餐价格](./image/一分机场/price.png)
 </details>
 <details>
-<summary>测速图</summary>
+<summary>三网测速</summary>
+  
+### 电信（单线程）
+![测速](./image/一分机场/dx.png)
+### 联通（单线程）
+![测速](./image/一分机场/lt.png)
+### 移动（单线程）
+![测速](./image/一分机场/yd.png)
+</details>
+<details>
+<summary>AI解锁</summary>
 
-![测速](./image/一分机场/speed.png)
+![AI解锁](./image/一分机场/ai.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/一分机场/lmt.png)
 </details>
 <hr>
+
 
 ### 良心云
 套餐价格：¥2/100GB,¥4/500GB
@@ -452,6 +468,17 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 
 ![测速](./image/良心云/speed.png)
 </details>
+<details>
+<summary>AI解锁</summary>
+
+![AI解锁](./image/良心云/ai.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/良心云/lmt.png)
+</details>
+<hr>
 <hr>
 
 ### 赔钱机场
