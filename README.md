@@ -38,7 +38,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,可分销,奠信不推荐 |
+| 1  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,可分销,电信不推荐 |
 | 2  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期),三网优化，性价比超高！ |
 | 3  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
 | 4  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)老牌机场稳定性很好! |
