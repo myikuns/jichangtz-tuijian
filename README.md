@@ -539,8 +539,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <details>
 <summary>测速图</summary>
 
-![测速](./image/赔钱机场/lt.png)
-![测速](./image/赔钱机场/dx.png)
+![测速](./image/赔钱机场/speed.png)
 </details>
 <hr>
 
