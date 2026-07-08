@@ -29,12 +29,11 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买💎套餐·含家宽专属节点}}$$** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 3  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥8/50G,¥16/100GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
-| 4  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 5  | [小牛智连](#小牛智连) | [官网](https://www.xnssr.com/auth#/register?code=WDyXISuH) | ¥18/100G,三线BGP优化线路，延迟低速度快！ |
-| 6  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
-| 7  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
-| 8  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+| 3  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 4  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥8/50G,¥16/100GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
+| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
+| 6  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
+| 7  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -274,6 +273,29 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
+### 落云
+
+套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：`60FFF`**
+
+特点：
+* 南极 冰岛等稀缺iP 原生iP 住宅iP
+* 解锁：Netflix, ChatGPT, Gemini 等
+* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+* 节点三网优化 带宽5Gbps+ 线路80+
+
+[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/落云/price.png)
+</details>
+<details>
+<summary>节点列表</summary>
+
+![测速](./image/落云/jd.png)
+</details>
+<hr>
+
 ### Lynvx
 **套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
 
@@ -310,28 +332,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### 落云
-
-套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：`60FFF`**
-
-特点：
-* 南极 冰岛等稀缺iP 原生iP 住宅iP
-* 解锁：Netflix, ChatGPT, Gemini 等
-* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
-* 节点三网优化 带宽5Gbps+ 线路80+
-
-[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/落云/price.png)
-</details>
-<details>
-<summary>节点列表</summary>
-
-![测速](./image/落云/jd.png)
-</details>
-<hr>
 
 ### 飞鸟云
 套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
