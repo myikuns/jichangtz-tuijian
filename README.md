@@ -140,7 +140,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 
 [苏菲家宽官网](https://sufe.pro/#/register?code=wRwmqe9Q)
 <details>
-<summary>套餐价格</summary>
+<summary>套餐价格·建议自行注册查看·截图不全</summary>
 
 ![套餐价格](./image/苏菲家宽/price.png)
 ![套餐价格](./image/苏菲家宽/price1.png)
