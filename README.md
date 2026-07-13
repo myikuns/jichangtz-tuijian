@@ -19,7 +19,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{有250+高速线路与超多家宽线路!}}$$**<br>**$${\color{red}{覆盖全球100+个国家(含卫星网络)!}}$$**|
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥72/500GB **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
-| 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥30/75GB,¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
+| 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 4  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！  |
 | 5  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入,另有国际 IPLC 传输线路！ |
 | 6  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快！体验更稳定！ |
