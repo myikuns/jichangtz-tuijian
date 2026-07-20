@@ -147,27 +147,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### 西部数据
-套餐价格：¥20/200GB,¥40/400GB,¥60/600GB 【仅支持月付】
-
-特点：
-* 🎖️ 中国大陆 BGP 多线接入 + 国际 IPLC 传输线路
-* 🧩 解锁Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
-* 🚀 三网超低延迟，畅享极速网络体验！
-
-[西部数据官网](https://wd-gold.net/aff.php?aff=14681)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/西部数据/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/西部数据/speed.png)
-</details>
-<hr>
-
 ### 边界云
 **套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
 
