@@ -138,7 +138,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 * 🔥低价直连套餐外带专属定制套餐、满足不同的需求！
 * 最近上新 ·全球家宽·全线尊享套餐· 与 ·定制10人verzion家宽拼车（单独拉小群）·
 
-[苏菲家宽官网](https://sufe.pro/#/register?code=wRwmqe9Q)
+[苏菲家宽官网](https://www.sufe.pro/#/register?code=wRwmqe9Q)
 <details>
 <summary>套餐价格·建议自行注册查看·截图不全</summary>
 
