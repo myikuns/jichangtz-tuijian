@@ -27,13 +27,14 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买💎套餐·含家宽专属节点}}$$** |
-| 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 3  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 4  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥8/50G,¥16/100GB,¥28/200GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
-| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
-| 6  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
-| 7  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+| 1  | [Lynvx](#Lynvx) | [官网](https://dash.lynvx.info/#/register?code=dGBbCBmF) | ¥16/100GB,¥28/200GB<br>全顶尖线路·电信CN2GIA·联通9929·移动CMIN2！ |
+| 2  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 3  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
+| 4  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买💎套餐·含家宽专属节点}}$$**<br> 目前电信体验非常一般，联通可以考虑上车！ |
+| 4  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
+| 5  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
+| 6  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -182,99 +183,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-
-### 悦通
-[悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
-
-**最新优惠：🔥618活动·七折优惠码：`YUE618`**
-
-
-带💎套餐为家宽套餐(带💎套餐目前有台湾/美国/日本/韩国/越南五大家宽节点与专属AI节点)  
-**$${\color{red}{另有不定期余额抽奖、有永久套餐、支持链式代理！还有Emby专属!}}$$**  
-强烈建议使用《[专属APP](https://yue.to/download.html)》不然有的节点不通且无emby！！  
-首推联通，其次移动，电信晚高峰体验较差！
-
-**套餐价格：¥14.9/1TB（月付） ¥22.9/500G（长期） ¥599/永久**  
-
-特点：
-* **专属APP签到送流量**,**TG群聊可以二次签到、日常群里不定时送官网余额抽奖等！**
-* 基本买个长期包能一直用，每天签到+积分兑换流量用不完！
-* 购买套餐免费送永久Emby！
-* 解锁 Netflix、YouTube、TikTok、OpenAI 等主流服务！
-* 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
-* 379元终身永久不限量99T高速流量
-* 599元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
-
-[悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
-<details>
-<summary>套餐价格</summary>
-  
-![套餐价格](./image/悦通/price.png)
-</details>
-<details>
-<summary>专属节点测速</summary>
-  
-![套餐价格](./image/悦通/zs.png)
-</details>
-<details>
-<summary>节点列表</summary>
-  
-![套餐价格](./image/悦通/jd.png)
-</details>
-<hr>
-
-### 雪山机场
-
-套餐价格：¥9.9/500GB（月付）    ¥39.9/1500GB（不限时） ¥799 三不限！永久买断！
-
-特点：
-* 有家宽节点（香港，台湾，韩国等）、套餐赠送EMBY期限跟套餐时间一样！
-* 订阅任意套餐即可免费使用 Emby，三端均可使用！
-* 内有推广专用包，可以自行分销！
-* 套餐为不限设备连接数量、随便使用但滥用会封禁！
-* **包含原生，家宽节点**
-
-[雪山机场官网](https://www.xueshan.shop/#/register?code=h0lPgItf)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/雪山机场/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/雪山机场/speed.png)
-</details>
-<details>
-<summary>流媒体解锁情况</summary>
-
-![测速](./image/雪山机场/js.jpg)
-</details>
-<hr>
-
-### 落云
-
-套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：`60FFF`**
-
-特点：
-* 南极 冰岛等稀缺iP 原生iP 住宅iP
-* 解锁：Netflix, ChatGPT, Gemini 等
-* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
-* 节点三网优化 带宽5Gbps+ 线路80+
-
-[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/落云/price.png)
-</details>
-<details>
-<summary>节点列表</summary>
-
-![测速](./image/落云/jd.png)
-</details>
-<hr>
-
 ### Lynvx
 **套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
 
@@ -311,56 +219,95 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
+### 落云
 
-### 飞鸟云
-套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
+套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：`60FFF`**
 
 特点：
-* ✅地区: 🇺🇸 美国 🇯🇵 日本 🇸🇬新加坡 🇹🇼 台湾 🇭🇰 香港
-* ✅大多数为Hysteria2协议+少量Vless协议
-* ✅不限网速，不限设备数量！
-* ✅建议当作备用的不二之选！
+* 南极 冰岛等稀缺iP 原生iP 住宅iP
+* 解锁：Netflix, ChatGPT, Gemini 等
+* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+* 节点三网优化 带宽5Gbps+ 线路80+
 
-[飞鸟云官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6)
+[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/飞鸟云/price.png)
+![套餐价格](./image/落云/price.png)
 </details>
 <details>
-<summary>测速图</summary>
+<summary>节点列表</summary>
 
-![测速](./image/飞鸟云/speed.png)
+![测速](./image/落云/jd.png)
 </details>
 <hr>
 
-### 小牛智连
-套餐价格：¥18/100G 、 ¥36/200G 、 ¥56/300G (无不限时套餐)
+### 雪山机场
+
+套餐价格：¥9.9/500GB（月付）    ¥39.9/1500GB（不限时） ¥799 三不限！永久买断！
 
 特点：
-* ⚡85折优惠码：`KV95zFjw`
-* 🎬热门流媒体解锁
-* 📱最多 2 台设备同时使用(根据套餐变动)
-* ⚡线路: 极速优化-BGP线路
-* 💰季付 / 年付带优惠，更省钱！
+* 有家宽节点（香港，台湾，韩国等）、套餐赠送EMBY期限跟套餐时间一样！
+* 订阅任意套餐即可免费使用 Emby，三端均可使用！
+* 内有推广专用包，可以自行分销！
+* 套餐为不限设备连接数量、随便使用但滥用会封禁！
+* **包含原生，家宽节点**
 
-[小牛智连官网](https://www.xnssr.com/auth#/register?code=WDyXISuH)
+[雪山机场官网](https://www.xueshan.shop/#/register?code=h0lPgItf)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/小牛智连/price.png)
+![套餐价格](./image/雪山机场/price.png)
 </details>
 <details>
 <summary>测速图</summary>
 
-![测速](./image/小牛智连/lt.png)
-![测速](./image/小牛智连/dx.png)
-![测速](./image/小牛智连/yd.png)
+![测速](./image/雪山机场/speed.png)
 </details>
 <details>
-<summary>拓扑情况</summary>
+<summary>流媒体解锁情况</summary>
 
-![测速](./image/小牛智连/tp.png)
+![测速](./image/雪山机场/js.jpg)
+</details>
+<hr>
+
+### 悦通
+[悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
+
+**最新优惠：🔥618活动·七折优惠码：`YUE618`**
+
+
+带💎套餐为家宽套餐(带💎套餐目前有台湾/美国/日本/韩国/越南五大家宽节点与专属AI节点)  
+**$${\color{red}{另有不定期余额抽奖、有永久套餐、支持链式代理！还有Emby专属!}}$$**  
+强烈建议使用《[专属APP](https://yue.to/download.html)》不然有的节点不通且无emby！！  
+首推联通，其次移动，电信体验较差！
+
+**套餐价格：¥14.9/1TB（月付） ¥22.9/500G（长期） ¥599/永久**  
+
+特点：
+* **专属APP签到送流量**,**TG群聊可以二次签到、日常群里不定时送官网余额抽奖等！**
+* 基本买个长期包能一直用，每天签到+积分兑换流量用不完！
+* 购买套餐免费送永久Emby！
+* 解锁 Netflix、YouTube、TikTok、OpenAI 等主流服务！
+* 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
+* 379元终身永久不限量99T高速流量
+* 599元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
+
+[悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
+<details>
+<summary>套餐价格</summary>
+  
+![套餐价格](./image/悦通/price.png)
+</details>
+<details>
+<summary>专属节点测速</summary>
+  
+![套餐价格](./image/悦通/zs.png)
+</details>
+<details>
+<summary>节点列表</summary>
+  
+![套餐价格](./image/悦通/jd.png)
 </details>
 <hr>
 
@@ -396,6 +343,28 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>节点列表</summary>
 
 ![节点列表](./image/星链机场/speed.png)
+</details>
+<hr>
+
+### 飞鸟云
+套餐价格：¥12年付/50G(平均1元/月) ¥24年付/100G(平均2元/月) ¥15/400G(月付) ¥10/200G(不限时)
+
+特点：
+* ✅地区: 🇺🇸 美国 🇯🇵 日本 🇸🇬新加坡 🇹🇼 台湾 🇭🇰 香港
+* ✅大多数为Hysteria2协议+少量Vless协议
+* ✅不限网速，不限设备数量！
+* ✅建议当作备用的不二之选！
+
+[飞鸟云官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/飞鸟云/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+![测速](./image/飞鸟云/speed.png)
 </details>
 <hr>
 
