@@ -22,7 +22,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 3  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快！体验更稳定！ |
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链家宽】<br>¥40/550G【美国动态家宽】<br>内有日本、美国等星链家宽！  |
-
+| 6  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+ 节点覆盖+SS协议 |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -32,7 +32,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 3  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
 | 4  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB}}$$** |
 | 5  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
-| 6  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买💎套餐·含家宽专属节点}}$$**<br> 目前只推荐联通、移动 |
+| 6  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{建议购买💎套餐·含家宽&专属节点，普通套餐一般}}$$**<br> 目前只推荐联通、移动 |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -128,24 +128,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### 苏菲家宽
-**套餐价格：¥50/800GB【星链版家宽】¥9.9/1TB【纯直连】¥40/550GB【美国动态家宽】¥30/420GB【美国NAT静态家宽】**
 
-特点：
-* 💎内有日本、美国等星链家宽、IEPL专线、真实ISP指纹，原生住宅环境！
-* 💥包含全套静态节点 (美/日/台/英/尼/欧) 具体看套餐简介！晚高峰优秀！
-* 🔥低价直连套餐外带专属定制套餐、满足不同的需求！
-* 最近上新 ·全球家宽·全线尊享套餐· 与 ·定制10人verzion家宽拼车（单独拉小群）·
-
-[苏菲家宽官网](https://www.sufe.pro/#/register?code=wRwmqe9Q)
-<details>
-<summary>套餐价格·建议自行注册查看·截图不全</summary>
-
-![套餐价格](./image/苏菲家宽/price.png)
-![套餐价格](./image/苏菲家宽/price1.png)
-![套餐价格](./image/苏菲家宽/price2.png)
-</details>
-<hr>
 
 ### 边界云
 **套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
@@ -181,39 +164,59 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### Lynvx
-**套餐价格：¥8/50GB,¥16/100GB,¥28/200GB,¥48/386GB | ¥45/100GB（长期）**
+### 苏菲家宽
+**套餐价格：¥50/800GB【星链版家宽】¥9.9/1TB【纯直连】¥40/550GB【美国动态家宽】¥30/420GB【美国NAT静态家宽】**
 
-特点：`注册就送1G体验节点` | 优惠码:`20OFF`
-* 🔥 全面接入：电信CN2GIA、联通9929、移动CMIN2线路
-* 🧩 Netflix、Disney+、TIKTOK、ChatGPT等流媒体及各大AI平台解锁
-* 🚀 三网顶尖线路优化！畅享极速网络体验且无设备连接数限制!
+特点：
+* 💎内有日本、美国等星链家宽、IEPL专线、真实ISP指纹，原生住宅环境！
+* 💥包含全套静态节点 (美/日/台/英/尼/欧) 具体看套餐简介！晚高峰优秀！
+* 🔥低价直连套餐外带专属定制套餐、满足不同的需求！
+* 最近上新 ·全球家宽·全线尊享套餐· 与 ·定制10人verzion家宽拼车（单独拉小群）·
 
-[Lynvx官网](https://dash.lynvx.info/#/register?code=dGBbCBmF)
+[苏菲家宽官网](https://www.sufe.pro/#/register?code=wRwmqe9Q)
+<details>
+<summary>套餐价格·建议自行注册查看·截图不全</summary>
+
+![套餐价格](./image/苏菲家宽/price.png)
+![套餐价格](./image/苏菲家宽/price1.png)
+![套餐价格](./image/苏菲家宽/price2.png)
+</details>
+<hr>
+
+### 白月光
+**套餐价格： ¥66/季/100G,¥126/季/250G,¥156/季/400G**
+
+特点：
+* ✈️IEPL 专线支持，低延迟稳定连接！电信⚡CN2，联通🪢：4837，移动📱：CMIN2!
+* 🛰️解锁 Netflix / Hulu / HBO / Disney+ / TikTok / ChatGPT 等
+* 🤩全球 76+ 国家/地区，105+ 节点覆盖、Shadowsocks 协议·在线限制5台设备
+
+
+[白月光官网](https://www.sibker.com/register?invite_code=QrfMO4F8)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/Lynvx/price.png)
+![套餐价格](./image/白月光/price.png)
 </details>
 <details>
-<summary>拓扑图</summary>
+<summary>拓扑图查看</summary>
 
-![拓扑图](./image/Lynvx/tp.png)
+![套餐价格](./image/白月光/price.png)
 </details>
 <details>
 <summary>三网测速图</summary>
 
-###  电信晚高峰
-![电信晚高峰](./image/Lynvx/dx.png)
-###  联通
-![联通](./image/Lynvx/lt.png)
-###  移动
-![移动](./image/Lynvx/yd.png)
+### 移动
+![测速](./image/白月光/yd.png)
+### 电信
+![测速](./image/白月光/dx.png)
+### 联通（单线程）
+![测速](./image/白月光/lt.png)
 </details>
 <details>
 <summary>流媒体解锁</summary>
 
-![流媒体](./image/Lynvx/lmt.png)
+![测速](./image/白月光/lmt.png)
 </details>
 <hr>
 
