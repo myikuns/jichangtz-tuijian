@@ -201,7 +201,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <details>
 <summary>拓扑图查看</summary>
 
-![套餐价格](./image/白月光/price.png)
+![套餐价格](./image/白月光/tp.png)
 </details>
 <details>
 <summary>三网测速图</summary>
