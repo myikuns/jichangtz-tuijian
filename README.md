@@ -228,7 +228,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 * 🛰️解锁 Netflix / Hulu / HBO / Disney+ / TikTok / ChatGPT 等
 * 🧬 Vless & Anytls & SS2022 三重协议支持
 * 🏠 附带多个家宽节点
-* 🏠专线2比专线1多 广州5线BGP+节点数量 优先推荐专线2！
+* 🏠专线2套餐比专线1套餐多 广州5线BGP+节点数量 优先推荐专线2套餐！
 
 
 [DickVPN官网](https://xn--74qp04m.org/#/register?code=2Vb14QhX)
