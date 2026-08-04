@@ -23,6 +23,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【日本KDDI原生家宽】<br>¥30/420GB【美国AT&T静态家宽】  |
 | 6  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+ 节点覆盖+SS协议 |
+| 7  | [DickVPN](#DickVPN) | [官网](https://xn--74qp04m.org/#/register?code=2Vb14QhX) | ¥40/100GB,¥80/200GB,精品线路+0.1倍率节点<br>广州5线BGP+gomami顶尖直连+aws精品直连 |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -129,8 +130,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-
-
 ### 边界云
 **套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
 
@@ -218,6 +217,45 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>流媒体解锁</summary>
 
 ![测速](./image/白月光/lmt.png)
+</details>
+<hr>
+
+### DickVPN
+**套餐价格： ¥40/100GB,¥80/200GB,¥120/300GB**
+
+特点：
+* 🌏广州5线BGP+gomami顶尖直连+aws精品直连接+低延迟·稳定直连+多个x0.1低倍率节点
+* 🛰️解锁 Netflix / Hulu / HBO / Disney+ / TikTok / ChatGPT 等
+* 🧬 Vless & Anytls & SS2022 三重协议支持
+* 🏠 附带多个家宽节点
+* 🏠专线2比专线1多 广州5线BGP+节点数量 优先推荐专线2！
+
+
+[DickVPN官网](https://xn--74qp04m.org/#/register?code=2Vb14QhX)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/DickVPN/price.png)
+</details>
+<details>
+<summary>拓扑图查看</summary>
+
+![套餐价格](./image/DickVPN/tp.png)
+</details>
+<details>
+<summary>三网测速图</summary>
+
+### 电信（晚高峰）
+![测速](./image/DickVPN/dx.png)
+### 移动
+![测速](./image/DickVPN/yd.png)
+### 联通
+![测速](./image/DickVPN/lt.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![测速](./image/DickVPN/lmt.png)
 </details>
 <hr>
 
