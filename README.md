@@ -21,7 +21,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥418/1200GB(高级季付)约¥140每月 **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
 | 3  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快！体验更稳定！ |
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
-| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链家宽】<br>¥40/550G【美国动态家宽】<br>内有日本、美国等星链家宽！  |
+| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【日本KDDI原生家宽】<br>¥30/420G【美国AT&T静态家宽】<br>内有全球家宽套餐！  |
 | 6  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+ 节点覆盖+SS协议 |
 
 # 二、主力推荐（性价比）
