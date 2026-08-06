@@ -20,9 +20,9 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{有250+高速线路与超多家宽线路!}}$$**<br>**$${\color{red}{覆盖全球100+个国家(含卫星网络)!}}$$**|
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥418/1200GB(高级季付)约¥140每月 **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
 | 3  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快！体验更稳定！ |
-| 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
+| 4  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+ 节点覆盖+SS协议 |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【日本KDDI原生家宽】<br>¥30/420GB【美国AT&T静态家宽】  |
-| 6  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+ 节点覆盖+SS协议 |
+| 6  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
 | 7  | [DickVPN](#DickVPN) | [官网](https://xn--74qp04m.org/#/register?code=2Vb14QhX) | ¥40/100GB,¥80/200GB,精品线路+0.1倍率节点<br>广州5线BGP+gomami顶尖直连+aws精品直连 |
 
 # 二、主力推荐（性价比）
@@ -96,40 +96,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### 肯の机
-**套餐价格：¥40/100GB ¥60/200G**
-
-**最新优惠：顶尖机场、顶尖体验、暂无优惠！前期建议先买最便宜测试使用！**
-
-特点：
-* 提供🚀GTM均衡优化入口线路负载 带V6入口 GOMAMI DMIT等入口 AKARI等出口
-* 速率高达2Gbps、无限制同时连接 IP 数！ 附带部分家宽节点！
-* 解锁全流媒体解锁和全AI解锁！！！
-
-[官网跳转](https://kendeji.io/#/auth?invite=uu15Kzxj)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/肯の机/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/肯の机/dx.png)
-![测速](./image/肯の机/lt.png)
-</details>
-<details>
-<summary>拓扑图</summary>
-
-![拓扑](./image/肯の机/tp.png)
-</details>
-<details>
-<summary>流媒体解锁</summary>
-
-![流媒体](./image/肯の机/lmt.png)
-</details>
-<hr>
-
 ### 边界云
 **套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
 
@@ -161,25 +127,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>流媒体解锁</summary>
 
 ![流媒体](./image/边界云/lmt.png)
-</details>
-<hr>
-
-### 苏菲家宽
-**套餐价格：¥50/800GB【星链版家宽】¥9.9/1TB【纯直连】¥40/550GB【美国动态家宽】¥30/420GB【美国NAT静态家宽】**
-
-特点：
-* 💎内有日本、美国等星链家宽、IEPL专线、真实ISP指纹，原生住宅环境！
-* 💥包含全套静态节点 (美/日/台/英/尼/欧) 具体看套餐简介！晚高峰优秀！
-* 🔥低价直连套餐外带专属定制套餐、满足不同的需求！
-* 最近上新 ·全球家宽·全线尊享套餐· 与 ·定制10人verzion家宽拼车（单独拉小群）·
-
-[苏菲家宽官网](https://www.sufe.pro/#/register?code=wRwmqe9Q)
-<details>
-<summary>套餐价格·建议自行注册查看·截图不全</summary>
-
-![套餐价格](./image/苏菲家宽/price.png)
-![套餐价格](./image/苏菲家宽/price1.png)
-![套餐价格](./image/苏菲家宽/price2.png)
 </details>
 <hr>
 
@@ -217,6 +164,59 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>流媒体解锁</summary>
 
 ![测速](./image/白月光/lmt.png)
+</details>
+<hr>
+
+### 苏菲家宽
+**套餐价格：¥50/800GB【星链版家宽】¥9.9/1TB【纯直连】¥40/550GB【美国动态家宽】¥30/420GB【美国NAT静态家宽】**
+
+特点：
+* 💎内有日本、美国等星链家宽、IEPL专线、真实ISP指纹，原生住宅环境！
+* 💥包含全套静态节点 (美/日/台/英/尼/欧) 具体看套餐简介！晚高峰优秀！
+* 🔥低价直连套餐外带专属定制套餐、满足不同的需求！
+* 最近上新 ·全球家宽·全线尊享套餐· 与 ·定制10人verzion家宽拼车（单独拉小群）·
+
+[苏菲家宽官网](https://www.sufe.pro/#/register?code=wRwmqe9Q)
+<details>
+<summary>套餐价格·建议自行注册查看·截图不全</summary>
+
+![套餐价格](./image/苏菲家宽/price.png)
+![套餐价格](./image/苏菲家宽/price1.png)
+![套餐价格](./image/苏菲家宽/price2.png)
+</details>
+<hr>
+
+### 肯の机
+**套餐价格：¥40/100GB ¥60/200G**
+
+**最新优惠：顶尖机场、顶尖体验、暂无优惠！前期建议先买最便宜测试使用！**
+
+特点：
+* 提供🚀GTM均衡优化入口线路负载 带V6入口 GOMAMI DMIT等入口 AKARI等出口
+* 速率高达2Gbps、无限制同时连接 IP 数！ 附带部分家宽节点！
+* 解锁全流媒体解锁和全AI解锁！！！
+
+[官网跳转](https://kendeji.io/#/auth?invite=uu15Kzxj)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/肯の机/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+![测速](./image/肯の机/dx.png)
+![测速](./image/肯の机/lt.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![拓扑](./image/肯の机/tp.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![流媒体](./image/肯の机/lmt.png)
 </details>
 <hr>
 
