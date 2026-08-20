@@ -69,31 +69,6 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 </details>
 <hr>
 
-### VikingLinks
-套餐价格：¥72/500GB,¥418/1200GB(高级季付)≈¥140每月（目前只推荐高级版）
-
-**特点(延迟低、稳定性高)：**
-* ⚡️国外透传连接⚡️
-* ❤️‍🔥 优惠码`WELCOME`或`vikingiptv`
-* 🚩世界多国内网互联🚩
-* 📺主流流媒体Netflix,Disney+等流媒体解锁📺
-* 📱另外赠送emby追更服📱
-
-[官网跳转](https://feeds.viking-links.tech/#/register?code=il5kLeXJ)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/Vlink/price.png)
-</details>
-<details>
-<summary>测速&解锁</summary>
-
-![电信测速](./image/Vlink/dx.png)
-![联通测速](./image/Vlink/lt.png)
-![流媒体](./image/Vlink/lmt.png)
-</details>
-<hr>
-
 ### 边界云
 **套餐价格：具体点击套餐价格、如其图所示，图表更为直观**
 
