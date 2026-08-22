@@ -112,7 +112,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 * 🤩全球 76+ 国家/地区，105+ 节点覆盖、Shadowsocks 协议·在线限制5台设备
 
 
-[白月光官网](https://www.sibker.com/register?invite_code=QrfMO4F8)
+[白月光官网<IP会太脏无法访问>](https://www.sibker.com/register?invite_code=QrfMO4F8)
 <details>
 <summary>套餐价格</summary>
 
