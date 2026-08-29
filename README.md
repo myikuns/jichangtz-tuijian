@@ -18,7 +18,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{有250+高速线路与超多家宽线路!}}$$**<br>**$${\color{red}{覆盖全球100+个国家(含卫星网络)!}}$$**|
-| 2  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥15/50G,¥29/200G,分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快体验更稳定！ |
+| 2  | [边界云](#边界云) | [官网](https://www.lvpn.cc/r/LQB7NF) | ¥189年付/每月100G(标准·年付) <br>¥688年付/每月200G(尊享·年付)<br>目前均为年付·分为标准和尊享两大类、均有IPEL優化線路<br>但尊享有企业级专线速度更快体验更稳定！优先推荐尊享! |
 | 3  | [白月光](#白月光) | [官网](https://www.sibker.com/register?invite_code=QrfMO4F8) | ¥66/季/100G,¥126/季/250G,IEPL专线CN2+CMIN2+4837线路！<br>全球 76+ 国家/地区，105+节点覆盖+SS协议 |
 | 4  | [苏菲家宽](#苏菲家宽) | [官网](https://www.sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【日本KDDI原生家宽】<br>¥30/420GB【美国AT&T静态家宽】  |
 | 5  | [DickVPN](#DickVPN) | [官网](https://xn--74qp04m.org/#/register?code=2Vb14QhX) | ¥40/100GB,¥80/200GB,精品线路+0.1倍率节点<br>广州5线BGP+gomami顶尖直连+aws精品直连 |
