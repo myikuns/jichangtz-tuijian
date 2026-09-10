@@ -26,11 +26,12 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 3  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB·不稳定·长期使用建议购买}}$$** |
-| 4  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
-| 5  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+| 1  | [鲨鱼云](#鲨鱼云) | [官网](https://www.shayux.com/register?invite_code=FtPDVlqi) | ¥20/100GB,台,日,美家宽、IPEL专线等、速度体验很不错 |
+| 2  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 3  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
+| 4  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB·不稳定·长期使用建议购买}}$$** |
+| 5  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量使用！ |
+| 6  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
 
 
 # 三、备用推荐（低价）
@@ -184,6 +185,44 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>流媒体解锁</summary>
 
 ![测速](./image/DickVPN/lmt.png)
+</details>
+<hr>
+
+### 鲨鱼云
+
+套餐价格：¥20/100GB   ¥40/200GB  ¥60/300GB
+
+特点：
+* ⚡速度限制：最高5Gbps突发与不限速
+* 🤩速率保证 · 专线 · 家宽 · 不限速
+* 🚀优质节点IP：解锁各类AI 流媒体等服务
+* 🎮享有IEPL：网络专线 超低延迟
+
+[鲨鱼云官网](https://www.shayux.com/register?invite_code=FtPDVlqi)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/鲨鱼云/price.png)
+</details>
+<details>
+<summary>三网测速图</summary>
+
+### 电信
+![测速](./image/鲨鱼云/dx.png)
+### 移动
+![测速](./image/鲨鱼云/yd.png)
+### 联通
+![测速](./image/鲨鱼云/lt.png)
+</details>
+<details>
+<summary>流媒体</summary>
+
+![测速](./image/鲨鱼云/lmt.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![测速](./image/鲨鱼云/tp.png)
 </details>
 <hr>
 
