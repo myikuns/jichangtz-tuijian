@@ -36,11 +36,12 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥6/1000G,¥18.8/1TB(永久)<br>电信不推荐,有香港&台湾住宅IP,美国原生IP |
-| 2  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期),三网优化，性价比超高！ |
-| 3  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
-| 4  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)老牌机场稳定性很好! |
-| 5  | [乌拉VPN](#乌拉VPN) | [官网](https://wulass.org/#/register?code=47dE5TNY) | ¥1/100G,¥5/1TB,高带宽节点接入!不限设备数量! |
+| 1  | [吹雪云](#吹雪云) | [官网](https://xn--9kqs1lo79d.com/#/register?code=pqk0Xbvl) | ¥2/128G,¥18.8/888G(永久)<br>电信不推荐,移动联通性价比起飞！ |
+| 2  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥6/1000G,¥18.8/1TB(永久)<br>电信不推荐,有香港&台湾住宅IP,美国原生IP |
+| 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期),三网优化，性价比超高！ |
+| 4  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
+| 5  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)老牌机场稳定性很好! |
+| 6  | [乌拉VPN](#乌拉VPN) | [官网](https://wulass.org/#/register?code=47dE5TNY) | ¥1/100G,¥5/1TB,高带宽节点接入!不限设备数量! |
 
 <hr>
 
@@ -290,6 +291,40 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 <summary>测速图</summary>
 
 ![测速](./image/飞鸟云/speed.png)
+</details>
+<hr>
+
+### 吹雪云
+套餐价格：¥2/128G,¥4/512G,¥18.8/888GB(永久)
+
+特点：
+* 🔥提供移动、联通专属线路（电信不推荐上车，电信仅IPV6不错）
+* 🛡️没有后台日志，让隐私更安全，放心使用
+* 🤖解锁 OpenAI / Netflix / TikTok / YouTube 等热门流媒体AI服务 
+
+[吹雪云官网](https://xn--9kqs1lo79d.com/#/register?code=pqk0Xbvl)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/吹雪云/price.png)
+</details>
+<summary>三网测速</summary>
+  
+### 电信（单线程）
+![测速](./image/吹雪云/yd.png)
+### 联通（单线程）
+![测速](./image/吹雪云/lt.png)
+### 移动（单线程）
+![测速](./image/吹雪云/dx.png)
+</details>
+<details>
+<summary>流媒体解锁</summary>
+
+![解锁](./image/吹雪云/lmt.png)
+</details>
+<summary>网络拓扑图</summary>
+
+![解锁](./image/吹雪云/tp.png)
 </details>
 <hr>
 
