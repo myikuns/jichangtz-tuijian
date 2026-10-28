@@ -31,7 +31,7 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 | 4  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB·不稳定·长期使用建议购买}}$$** |
 | 5  | [茶艺云](#茶艺云) | [官网](https://cloud.teaartcloud.com/#/register?code=I1gLJAh3) | ¥18/100,精品机场、主流区域、首推移动联通！解锁OK |
 | 6  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
-| 7  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>无审计、不限量！适合大流量PT下载使用！ |
+| 7  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)无审计、不限量！<br>适合大流量PT下载使用！ |
 
 
 # 三、备用推荐（低价）
