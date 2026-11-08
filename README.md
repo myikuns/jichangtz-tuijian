@@ -25,13 +25,14 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [鲨鱼云](#鲨鱼云) | [官网](https://www.shayux.com/register?invite_code=FtPDVlqi) | ¥20/100GB,台,日,美家宽、IPEL专线等、速度体验很不错 |
-| 2  | [落云](#落云) | [官网](https://wwww.luoyun7.com/#/register?code=UVI42l9q) | ¥16/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 3  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 4  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB·不稳定·长期使用建议购买}}$$** |
-| 5  | [茶艺云](#茶艺云) | [官网](https://cloud.teaartcloud.com/#/register?code=I1gLJAh3) | ¥18/100,精品机场、主流区域、首推移动联通！解锁OK |
-| 6  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
-| 7  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)无审计、不限量！<br>适合大流量PT下载使用！ |
+| 1  | [Jeeyio](#Jeeyio) | [官网](https://jeeyio.com/register?inviteCode=4QWS8P) | ￥30/150G,套餐差异化，有三网优化入口+国内入口。延迟低！|
+| 2  | [鲨鱼云](#鲨鱼云) | [官网](https://www.shayux.com/register?invite_code=FtPDVlqi) | ¥20/100GB,台,日,美家宽、IPEL专线等、速度体验很不错 |
+| 3  | [落云](#落云) | [官网](https://wwww.luoyun7.com/#/register?code=UVI42l9q) | ¥16/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 4  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
+| 5  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区<br>**$${\color{red}{注册就送永久免费888PB·不稳定·长期使用建议购买}}$$** |
+| 6  | [茶艺云](#茶艺云) | [官网](https://cloud.teaartcloud.com/#/register?code=I1gLJAh3) | ¥18/100,精品机场、主流区域、首推移动联通！解锁OK |
+| 7  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(长期)主要为美日新台港,不限设备数量！ |
+| 8  | [果冻加速](#果冻加速) | [官网](https://guodongjiasu.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)无审计、不限量！<br>适合大流量PT下载使用！ |
 
 
 # 三、备用推荐（低价）
@@ -146,6 +147,42 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 [苏菲家宽官网](https://www.sufe.pro/register?code=wRwmqe9Q)
 <details>
 <summary>套餐价格·建议自行注册查看·截图不全</summary>
+</details>
+<hr>
+
+### Jeeyio
+
+套餐价格：¥12/60GB   ¥30/150GB  ¥48/240GB  （仅月付）
+
+特点：
+* 🚀优质节点IP：解锁各类AI 流媒体
+* 🎮精品线路机（CN2GIA，9929，CMIN2三网精品优化线路） EVOXT优化线路CN节点：上海阿里云+bgp轻量集群+IX内网（限速100M）
+
+[Jeeyio官网](https://jeeyio.com/register?inviteCode=4QWS8P))
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/Jeeyio/price.png)
+</details>
+<details>
+<summary>三网测速图</summary>
+
+### 电信
+![测速](./image/Jeeyio/dx.png)
+### 移动
+![测速](./image/Jeeyio/yd.png)
+### 联通
+![测速](./image/Jeeyio/lt.png)
+</details>
+<details>
+<summary>流媒体</summary>
+
+![测速](./image/Jeeyio/lmt.png)
+</details>
+<details>
+<summary>拓扑图</summary>
+
+![测速](./image/Jeeyio/tp.png)
 </details>
 <hr>
 
