@@ -158,7 +158,8 @@ Binance 币安（专享 15% 交易手续费返还）→ [**《币安专属邀请
 * 🚀优质节点IP：解锁各类AI 流媒体
 * 🎮精品线路机（CN2GIA，9929，CMIN2三网精品优化线路） EVOXT优化线路CN节点：上海阿里云+bgp轻量集群+IX内网（限速100M）
 
-[Jeeyio官网](https://jeeyio.com/register?inviteCode=4QWS8P))
+
+[Jeeyio官网](https://jeeyio.com/register?inviteCode=4QWS8P)
 <details>
 <summary>套餐价格</summary>
 
